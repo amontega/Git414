@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: lightgray;
+    background: rgb(201, 75, 75);
   }
   header, nav, main, footer {
     padding: 1rem;
